@@ -11,6 +11,7 @@ namespace WindowsFormsApp4
         /// <summary>
         /// Главная точка входа для приложения.
         /// </summary>
+        /// sfefef
         [STAThread]
         static void Main()
         {
